@@ -1,0 +1,5 @@
+INFO     root:test_lab2.py:11 TestCase 1
+INFO     root:test_lab2.py:25 Result: Error: Quantity for 'Laptop' must be an integer greater than 0.
+INFO     root:test_lab2.py:26 TestCase FINISHED
+INFO     root:test_lab2.py:29 TestCase 2 (RF3)
+INFO     root:test_lab2.py:43 TestCase 3 (RF9)

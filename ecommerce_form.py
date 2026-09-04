@@ -51,5 +51,3 @@ class OnlinePurchase:
                 f"Shipping Addresss: {address}\n"
                 f"Total to payy: ${total_with_discount:.2f}")
 
-
-if __name__ == "__main__":
